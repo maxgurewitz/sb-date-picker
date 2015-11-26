@@ -1,2 +1,6 @@
-# sb-date-picker
-Stormbringer date picker.
+## Getting Started
+
+```bash
+npm install
+npm start
+```
